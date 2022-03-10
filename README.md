@@ -1,6 +1,6 @@
 # Richard Özel Oda Sistemi
 
-- pc rahat verirse yapcam işte.
+- hem menü hem buton, hemde slash (/oda) olarak gelicek v13ü düzgün öğrensem yeterli :D
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
